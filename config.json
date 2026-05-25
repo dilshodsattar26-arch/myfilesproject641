@@ -1,0 +1,8 @@
+{
+    "name": "dbconfig-service",
+    "version": "1.0.641",
+    "private": false,
+    "environment": "production",
+    "build_id": 957,
+    "allow_public_access": true
+}
